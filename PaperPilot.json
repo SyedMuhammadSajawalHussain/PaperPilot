@@ -12,22 +12,22 @@
           "papers": [
             {
               "id": "IT101",
-              "title": "My CV",
-              "driveLink": "https://drive.google.com/uc?export=download&id=1H9n5bQwJSpr7-_tT9WUVuk2q7zxo7J-H",
+              "title": "Computer-1",
+              "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN",
               "fileSize": "2.4 MB",
               "addedDate": "2026-06-20T10:00:00Z"
             },
             {
               "id": "IT102",
-              "title": "Tenses",
+              "title": "Computer-2",
               "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN",
               "fileSize": "3.1 MB",
               "addedDate": "2026-06-20T10:00:00Z"
             },
             {
               "id": "IT103",
-              "title": "Introduction to Computing - Midterm 2023",
-              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_3",
+              "title": "Computer-3",
+              "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN",
               "fileSize": "1.8 MB",
               "addedDate": "2026-06-20T10:00:00Z"
             }
@@ -38,22 +38,22 @@
           "papers": [
             {
               "id": "IT201",
-              "title": "Data Structures - Midterm 2023",
-              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_4",
+              "title": "Database-1",
+              "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN",
               "fileSize": "2.8 MB",
               "addedDate": "2026-06-20T10:00:00Z"
             },
             {
               "id": "IT202",
-              "title": "Data Structures - Final 2023",
-              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_5",
+              "title": "Database-2",
+              "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN",
               "fileSize": "3.4 MB",
               "addedDate": "2026-06-20T10:00:00Z"
             },
             {
               "id": "IT203",
-              "title": "Object Oriented Programming - Midterm 2023",
-              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_6",
+              "title": "Database-3",
+              "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN",
               "fileSize": "2.2 MB",
               "addedDate": "2026-06-20T10:00:00Z"
             }
