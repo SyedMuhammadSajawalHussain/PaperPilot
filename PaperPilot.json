@@ -431,6 +431,651 @@
           ]
         }
       ]
+    },
+    {
+      "id": "BSPOL",
+      "name": "BS(Political Science)",
+      "lastUpdated": "2026-06-24T15:00:00Z",
+      "semesters": [
+        {
+          "number": 1,
+          "papers": [
+            {
+              "id": "POL101",
+              "title": "Introduction to Political Science - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_49",
+              "fileSize": "1.5 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "POL102",
+              "title": "Introduction to Political Science - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_50",
+              "fileSize": "1.9 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "POL103",
+              "title": "Political Theory - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_51",
+              "fileSize": "1.6 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "papers": [
+            {
+              "id": "POL201",
+              "title": "Comparative Politics - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_52",
+              "fileSize": "1.7 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "POL202",
+              "title": "Comparative Politics - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_53",
+              "fileSize": "2.1 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "POL203",
+              "title": "International Relations - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_54",
+              "fileSize": "1.8 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "papers": [
+            {
+              "id": "POL301",
+              "title": "Political Economy - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_55",
+              "fileSize": "1.9 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "POL302",
+              "title": "Political Economy - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_56",
+              "fileSize": "2.2 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "POL303",
+              "title": "Public Administration - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_57",
+              "fileSize": "1.7 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "papers": [
+            {
+              "id": "POL401",
+              "title": "Political Philosophy - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_58",
+              "fileSize": "2.0 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "POL402",
+              "title": "Political Philosophy - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_59",
+              "fileSize": "2.4 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "POL403",
+              "title": "Democracy and Governance - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_60",
+              "fileSize": "1.8 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "papers": [
+            {
+              "id": "POL501",
+              "title": "Foreign Policy Analysis - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_61",
+              "fileSize": "2.1 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "POL502",
+              "title": "Foreign Policy Analysis - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_62",
+              "fileSize": "2.5 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "POL503",
+              "title": "Human Rights and Politics - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_63",
+              "fileSize": "1.9 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "papers": [
+            {
+              "id": "POL601",
+              "title": "Political Sociology - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_64",
+              "fileSize": "2.0 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "POL602",
+              "title": "Political Sociology - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_65",
+              "fileSize": "2.3 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "POL603",
+              "title": "Geopolitics - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_66",
+              "fileSize": "2.2 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "papers": [
+            {
+              "id": "POL701",
+              "title": "Political Research Methods - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_67",
+              "fileSize": "2.3 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "POL702",
+              "title": "Political Research Methods - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_68",
+              "fileSize": "2.7 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "POL703",
+              "title": "Global Politics - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_69",
+              "fileSize": "2.1 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "papers": [
+            {
+              "id": "POL801",
+              "title": "Political Economy of Development - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_70",
+              "fileSize": "2.5 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "POL802",
+              "title": "Political Economy of Development - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_71",
+              "fileSize": "2.9 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "POL803",
+              "title": "Thesis in Political Science - 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_72",
+              "fileSize": "4.8 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BSECO",
+      "name": "BS(Economics)",
+      "lastUpdated": "2026-06-24T15:00:00Z",
+      "semesters": [
+        {
+          "number": 1,
+          "papers": [
+            {
+              "id": "ECO101",
+              "title": "Microeconomics - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_73",
+              "fileSize": "1.6 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ECO102",
+              "title": "Microeconomics - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_74",
+              "fileSize": "2.0 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ECO103",
+              "title": "Macroeconomics - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_75",
+              "fileSize": "1.7 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "papers": [
+            {
+              "id": "ECO201",
+              "title": "Mathematical Economics - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_76",
+              "fileSize": "1.9 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ECO202",
+              "title": "Mathematical Economics - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_77",
+              "fileSize": "2.3 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ECO203",
+              "title": "Statistics for Economics - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_78",
+              "fileSize": "1.8 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "papers": [
+            {
+              "id": "ECO301",
+              "title": "Econometrics - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_79",
+              "fileSize": "2.1 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ECO302",
+              "title": "Econometrics - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_80",
+              "fileSize": "2.5 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ECO303",
+              "title": "Development Economics - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_81",
+              "fileSize": "1.9 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "papers": [
+            {
+              "id": "ECO401",
+              "title": "International Economics - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_82",
+              "fileSize": "2.0 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ECO402",
+              "title": "International Economics - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_83",
+              "fileSize": "2.4 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ECO403",
+              "title": "Public Economics - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_84",
+              "fileSize": "1.8 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "papers": [
+            {
+              "id": "ECO501",
+              "title": "Monetary Economics - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_85",
+              "fileSize": "2.1 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ECO502",
+              "title": "Monetary Economics - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_86",
+              "fileSize": "2.6 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ECO503",
+              "title": "Labor Economics - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_87",
+              "fileSize": "2.0 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "papers": [
+            {
+              "id": "ECO601",
+              "title": "Environmental Economics - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_88",
+              "fileSize": "2.2 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ECO602",
+              "title": "Environmental Economics - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_89",
+              "fileSize": "2.7 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ECO603",
+              "title": "Financial Economics - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_90",
+              "fileSize": "2.3 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "papers": [
+            {
+              "id": "ECO701",
+              "title": "Industrial Economics - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_91",
+              "fileSize": "2.4 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ECO702",
+              "title": "Industrial Economics - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_92",
+              "fileSize": "2.8 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ECO703",
+              "title": "Behavioral Economics - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_93",
+              "fileSize": "2.1 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "papers": [
+            {
+              "id": "ECO801",
+              "title": "Advanced Econometrics - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_94",
+              "fileSize": "2.6 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ECO802",
+              "title": "Advanced Econometrics - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_95",
+              "fileSize": "3.0 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ECO803",
+              "title": "Thesis in Economics - 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_96",
+              "fileSize": "5.0 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BSENG",
+      "name": "BS(English Literature)",
+      "lastUpdated": "2026-06-24T15:00:00Z",
+      "semesters": [
+        {
+          "number": 1,
+          "papers": [
+            {
+              "id": "ENG101",
+              "title": "Introduction to Literature - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_97",
+              "fileSize": "1.4 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ENG102",
+              "title": "Introduction to Literature - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_98",
+              "fileSize": "1.8 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ENG103",
+              "title": "English Grammar and Composition - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_99",
+              "fileSize": "1.5 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "papers": [
+            {
+              "id": "ENG201",
+              "title": "British Literature - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_100",
+              "fileSize": "1.7 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ENG202",
+              "title": "British Literature - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_101",
+              "fileSize": "2.1 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ENG203",
+              "title": "American Literature - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_102",
+              "fileSize": "1.6 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "papers": [
+            {
+              "id": "ENG301",
+              "title": "Shakespeare Studies - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_103",
+              "fileSize": "1.9 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ENG302",
+              "title": "Shakespeare Studies - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_104",
+              "fileSize": "2.3 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ENG303",
+              "title": "Literary Theory and Criticism - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_105",
+              "fileSize": "1.8 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "papers": [
+            {
+              "id": "ENG401",
+              "title": "Postcolonial Literature - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_106",
+              "fileSize": "2.0 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ENG402",
+              "title": "Postcolonial Literature - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_107",
+              "fileSize": "2.4 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ENG403",
+              "title": "Modern Poetry - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_108",
+              "fileSize": "1.7 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "papers": [
+            {
+              "id": "ENG501",
+              "title": "Victorian Literature - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_109",
+              "fileSize": "2.1 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ENG502",
+              "title": "Victorian Literature - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_110",
+              "fileSize": "2.5 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ENG503",
+              "title": "Creative Writing - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_111",
+              "fileSize": "1.9 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "papers": [
+            {
+              "id": "ENG601",
+              "title": "World Literature - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_112",
+              "fileSize": "2.2 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ENG602",
+              "title": "World Literature - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_113",
+              "fileSize": "2.6 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ENG603",
+              "title": "Linguistics - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_114",
+              "fileSize": "2.0 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "papers": [
+            {
+              "id": "ENG701",
+              "title": "Drama Studies - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_115",
+              "fileSize": "2.3 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ENG702",
+              "title": "Drama Studies - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_116",
+              "fileSize": "2.7 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ENG703",
+              "title": "Feminist Literature - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_117",
+              "fileSize": "2.1 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "papers": [
+            {
+              "id": "ENG801",
+              "title": "Comparative Literature - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_118",
+              "fileSize": "2.4 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ENG802",
+              "title": "Comparative Literature - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_119",
+              "fileSize": "2.8 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "ENG803",
+              "title": "Thesis in English Literature - 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_120",
+              "fileSize": "4.5 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
