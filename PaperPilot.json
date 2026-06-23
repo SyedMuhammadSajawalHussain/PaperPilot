@@ -1,0 +1,436 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-06-24T15:00:00Z",
+  "programs": [
+    {
+      "id": "BSIT",
+      "name": "BS(Information Technology)",
+      "lastUpdated": "2026-06-24T15:00:00Z",
+      "semesters": [
+        {
+          "number": 1,
+          "papers": [
+            {
+              "id": "IT101",
+              "title": "Programming Fundamentals - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_1",
+              "fileSize": "2.4 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "IT102",
+              "title": "Programming Fundamentals - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_2",
+              "fileSize": "3.1 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "IT103",
+              "title": "Introduction to Computing - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_3",
+              "fileSize": "1.8 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "papers": [
+            {
+              "id": "IT201",
+              "title": "Data Structures - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_4",
+              "fileSize": "2.8 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "IT202",
+              "title": "Data Structures - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_5",
+              "fileSize": "3.4 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "IT203",
+              "title": "Object Oriented Programming - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_6",
+              "fileSize": "2.2 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "papers": [
+            {
+              "id": "IT301",
+              "title": "Database Systems - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_7",
+              "fileSize": "2.6 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "IT302",
+              "title": "Database Systems - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_8",
+              "fileSize": "3.2 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "IT303",
+              "title": "Software Engineering - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_9",
+              "fileSize": "2.0 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "papers": [
+            {
+              "id": "IT401",
+              "title": "Computer Networks - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_10",
+              "fileSize": "2.9 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "IT402",
+              "title": "Computer Networks - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_11",
+              "fileSize": "3.5 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "IT403",
+              "title": "Operating Systems - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_12",
+              "fileSize": "2.7 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "papers": [
+            {
+              "id": "IT501",
+              "title": "Web Development - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_13",
+              "fileSize": "2.3 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "IT502",
+              "title": "Web Development - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_14",
+              "fileSize": "2.9 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "IT503",
+              "title": "Mobile Application Development - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_15",
+              "fileSize": "2.5 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "papers": [
+            {
+              "id": "IT601",
+              "title": "Artificial Intelligence - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_16",
+              "fileSize": "3.0 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "IT602",
+              "title": "Artificial Intelligence - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_17",
+              "fileSize": "3.6 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "IT603",
+              "title": "Cyber Security - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_18",
+              "fileSize": "2.8 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "papers": [
+            {
+              "id": "IT701",
+              "title": "Data Science - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_19",
+              "fileSize": "3.2 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "IT702",
+              "title": "Data Science - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_20",
+              "fileSize": "3.8 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "IT703",
+              "title": "Cloud Computing - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_21",
+              "fileSize": "2.6 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "papers": [
+            {
+              "id": "IT801",
+              "title": "Machine Learning - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_22",
+              "fileSize": "3.4 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "IT802",
+              "title": "Machine Learning - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_23",
+              "fileSize": "4.0 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "IT803",
+              "title": "Final Year Project - Thesis 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_24",
+              "fileSize": "5.2 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BSCS",
+      "name": "BS(Computer Science)",
+      "lastUpdated": "2026-06-24T15:00:00Z",
+      "semesters": [
+        {
+          "number": 1,
+          "papers": [
+            {
+              "id": "CS101",
+              "title": "Introduction to Computing - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_25",
+              "fileSize": "1.8 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "CS102",
+              "title": "Introduction to Computing - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_26",
+              "fileSize": "2.2 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "CS103",
+              "title": "Discrete Mathematics - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_27",
+              "fileSize": "1.9 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "papers": [
+            {
+              "id": "CS201",
+              "title": "Data Structures - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_28",
+              "fileSize": "2.8 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "CS202",
+              "title": "Data Structures - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_29",
+              "fileSize": "3.4 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "CS203",
+              "title": "Object Oriented Programming - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_30",
+              "fileSize": "2.2 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "papers": [
+            {
+              "id": "CS301",
+              "title": "Database Systems - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_31",
+              "fileSize": "2.6 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "CS302",
+              "title": "Database Systems - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_32",
+              "fileSize": "3.2 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "CS303",
+              "title": "Software Engineering - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_33",
+              "fileSize": "2.0 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "papers": [
+            {
+              "id": "CS401",
+              "title": "Computer Networks - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_34",
+              "fileSize": "2.9 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "CS402",
+              "title": "Computer Networks - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_35",
+              "fileSize": "3.5 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "CS403",
+              "title": "Operating Systems - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_36",
+              "fileSize": "2.7 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "papers": [
+            {
+              "id": "CS501",
+              "title": "Web Development - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_37",
+              "fileSize": "2.3 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "CS502",
+              "title": "Web Development - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_38",
+              "fileSize": "2.9 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "CS503",
+              "title": "Mobile Application Development - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_39",
+              "fileSize": "2.5 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "papers": [
+            {
+              "id": "CS601",
+              "title": "Artificial Intelligence - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_40",
+              "fileSize": "3.0 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "CS602",
+              "title": "Artificial Intelligence - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_41",
+              "fileSize": "3.6 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "CS603",
+              "title": "Computer Graphics - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_42",
+              "fileSize": "2.8 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "papers": [
+            {
+              "id": "CS701",
+              "title": "Data Science - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_43",
+              "fileSize": "3.2 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "CS702",
+              "title": "Data Science - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_44",
+              "fileSize": "3.8 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "CS703",
+              "title": "Cloud Computing - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_45",
+              "fileSize": "2.6 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "papers": [
+            {
+              "id": "CS801",
+              "title": "Machine Learning - Midterm 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_46",
+              "fileSize": "3.4 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "CS802",
+              "title": "Machine Learning - Final 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_47",
+              "fileSize": "4.0 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            },
+            {
+              "id": "CS803",
+              "title": "Final Year Project - Thesis 2023",
+              "driveLink": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID_48",
+              "fileSize": "5.2 MB",
+              "addedDate": "2026-06-20T10:00:00Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
