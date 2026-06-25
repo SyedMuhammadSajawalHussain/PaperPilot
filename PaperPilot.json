@@ -55,8 +55,8 @@
       ]
     },
     {
-      "id": "BSCS",
-      "name": "BS(Computer Science)",
+      "id": "BSZO",
+      "name": "BS(Zoology)",
       "lastUpdated": "2026-06-25T10:00:00Z",
       "semesters": [
         {
@@ -102,8 +102,290 @@
       ]
     },
     {
-      "id": "BSSE",
-      "name": "BS(Software Engineering)",
+      "id": "BSCS",
+      "name": "BS(Computer Science)",
+      "lastUpdated": "2026-06-25T10:00:00Z",
+      "semesters": [
+        {
+          "number": 1,
+          "papers": [
+            ]
+        },
+        {
+          "number": 2,
+          "papers": [
+            ]
+        },
+        {
+          "number": 3,
+          "papers": [
+             ]
+        },
+        {
+          "number": 4,
+          "papers": [
+            ]
+        },
+        {
+          "number": 5,
+          "papers": [
+            ]
+        },
+        {
+          "number": 6,
+          "papers": [
+            ]
+        },
+        {
+          "number": 7,
+          "papers": [
+            ]
+        },
+        {
+          "number": 8,
+          "papers": [
+            ]
+        }
+      ]
+    },
+    {
+      "id": "BSEN",
+      "name": "BS(English Literature)",
+      "lastUpdated": "2026-06-25T10:00:00Z",
+      "semesters": [
+        {
+          "number": 1,
+          "papers": [
+            ]
+        },
+        {
+          "number": 2,
+          "papers": [
+            ]
+        },
+        {
+          "number": 3,
+          "papers": [
+             ]
+        },
+        {
+          "number": 4,
+          "papers": [
+            ]
+        },
+        {
+          "number": 5,
+          "papers": [
+            ]
+        },
+        {
+          "number": 6,
+          "papers": [
+            ]
+        },
+        {
+          "number": 7,
+          "papers": [
+            ]
+        },
+        {
+          "number": 8,
+          "papers": [
+            ]
+        }
+      ]
+    },
+    {
+      "id": "BSUR",
+      "name": "BS(Urdu Literature)",
+      "lastUpdated": "2026-06-25T10:00:00Z",
+      "semesters": [
+        {
+          "number": 1,
+          "papers": [
+            ]
+        },
+        {
+          "number": 2,
+          "papers": [
+            ]
+        },
+        {
+          "number": 3,
+          "papers": [
+             ]
+        },
+        {
+          "number": 4,
+          "papers": [
+            ]
+        },
+        {
+          "number": 5,
+          "papers": [
+            ]
+        },
+        {
+          "number": 6,
+          "papers": [
+            ]
+        },
+        {
+          "number": 7,
+          "papers": [
+            ]
+        },
+        {
+          "number": 8,
+          "papers": [
+            ]
+        }
+      ]
+    },
+    {
+      "id": "BSPH",
+      "name": "BS(Physics)",
+      "lastUpdated": "2026-06-25T10:00:00Z",
+      "semesters": [
+        {
+          "number": 1,
+          "papers": [
+            ]
+        },
+        {
+          "number": 2,
+          "papers": [
+            ]
+        },
+        {
+          "number": 3,
+          "papers": [
+             ]
+        },
+        {
+          "number": 4,
+          "papers": [
+            ]
+        },
+        {
+          "number": 5,
+          "papers": [
+            ]
+        },
+        {
+          "number": 6,
+          "papers": [
+            ]
+        },
+        {
+          "number": 7,
+          "papers": [
+            ]
+        },
+        {
+          "number": 8,
+          "papers": [
+            ]
+        }
+      ]
+    },
+    {
+      "id": "BSCH",
+      "name": "BS(Chemistry)",
+      "lastUpdated": "2026-06-25T10:00:00Z",
+      "semesters": [
+        {
+          "number": 1,
+          "papers": [
+            ]
+        },
+        {
+          "number": 2,
+          "papers": [
+            ]
+        },
+        {
+          "number": 3,
+          "papers": [
+             ]
+        },
+        {
+          "number": 4,
+          "papers": [
+            ]
+        },
+        {
+          "number": 5,
+          "papers": [
+            ]
+        },
+        {
+          "number": 6,
+          "papers": [
+            ]
+        },
+        {
+          "number": 7,
+          "papers": [
+            ]
+        },
+        {
+          "number": 8,
+          "papers": [
+            ]
+        }
+      ]
+    },
+    {
+      "id": "BSMT",
+      "name": "BS(Mathematics)",
+      "lastUpdated": "2026-06-25T10:00:00Z",
+      "semesters": [
+        {
+          "number": 1,
+          "papers": [
+            ]
+        },
+        {
+          "number": 2,
+          "papers": [
+            ]
+        },
+        {
+          "number": 3,
+          "papers": [
+             ]
+        },
+        {
+          "number": 4,
+          "papers": [
+            ]
+        },
+        {
+          "number": 5,
+          "papers": [
+            ]
+        },
+        {
+          "number": 6,
+          "papers": [
+            ]
+        },
+        {
+          "number": 7,
+          "papers": [
+            ]
+        },
+        {
+          "number": 8,
+          "papers": [
+            ]
+        }
+      ]
+    },
+    {
+      "id": "BSIS",
+      "name": "BS(Islamic Studies)",
       "lastUpdated": "2026-06-25T10:00:00Z",
       "semesters": [
         {
