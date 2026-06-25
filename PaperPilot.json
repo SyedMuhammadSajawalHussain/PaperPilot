@@ -1,265 +1,150 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-06-24T10:00:00Z",
+  "lastUpdated": "2026-06-25T10:00:00Z",
   "programs": [
     {
       "id": "BSIT",
       "name": "BS(Information Technology)",
-      "lastUpdated": "2026-06-24T10:00:00Z",
+      "lastUpdated": "2026-06-25T10:00:00Z",
       "semesters": [
         {
           "number": 1,
           "papers": [
-            { "id": "IT101", "title": "Programming Fundamentals - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT102", "title": "Programming Fundamentals - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT103", "title": "Introduction to Computing - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT104", "title": "Introduction to Computing - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT105", "title": "Discrete Mathematics - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" }
-          ]
+            ]
         },
         {
           "number": 2,
           "papers": [
-            { "id": "IT201", "title": "Data Structures - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT202", "title": "Data Structures - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT203", "title": "Object Oriented Programming - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT204", "title": "Object Oriented Programming - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT205", "title": "Database Systems - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" }
-          ]
+            ]
         },
         {
           "number": 3,
           "papers": [
-            { "id": "IT301", "title": "Database Systems - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT302", "title": "Software Engineering - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT303", "title": "Software Engineering - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT304", "title": "Computer Networks - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT305", "title": "Computer Networks - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" }
-          ]
+            ]
         },
         {
           "number": 4,
           "papers": [
-            { "id": "IT401", "title": "Operating Systems - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT402", "title": "Operating Systems - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT403", "title": "Web Development - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT404", "title": "Web Development - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT405", "title": "Mobile App Development - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" }
-          ]
+            ]
         },
         {
           "number": 5,
           "papers": [
-            { "id": "IT501", "title": "CC-312-Fall-25", "driveLink": "https://drive.google.com/uc?export=download&id=1jgRyb9JIh3mApBDJdtujbFKqzIsZRImC", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT502", "title": "El-331-Fall-25", "driveLink": "https://drive.google.com/uc?export=download&id=1A1XAyf9hzJEnjMuaGq0FLTTlfrORu3ui", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT503", "title": "CC-311-Fall-25", "driveLink": "https://drive.google.com/uc?export=download&id=1yzDXQld4I7guZ7kE4JqdYQh2JJKuFQ9W", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT504", "title": "DI-322-Fall-25", "driveLink": "https://drive.google.com/uc?export=download&id=1cK4tYslx3WClRiNW8YX1_dhfVqI1cEBv", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT505", "title": "SI-341-Fall-25", "driveLink": "https://drive.google.com/uc?export=download&id=1IQyZLBBxmgtJeaSKp43-Yb2v5Z7KEWvG", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" }
+            { "id": "IT501", "title": "CC-312-Fall-25", "driveLink": "https://drive.google.com/uc?export=download&id=1jgRyb9JIh3mApBDJdtujbFKqzIsZRImC", "fileSize": "1.2 MB", "addedDate": "2026-06-25T10:00:00Z" },
+            { "id": "IT502", "title": "EI-331-Fall-25", "driveLink": "https://drive.google.com/uc?export=download&id=1A1XAyf9hzJEnjMuaGq0FLTTlfrORu3ui", "fileSize": "1.2 MB", "addedDate": "2026-06-25T10:00:00Z" },
+            { "id": "IT503", "title": "CC-311-Fall-25", "driveLink": "https://drive.google.com/uc?export=download&id=1yzDXQld4I7guZ7kE4JqdYQh2JJKuFQ9W", "fileSize": "1.2 MB", "addedDate": "2026-06-25T10:00:00Z" },
+            { "id": "IT504", "title": "DI-322-Fall-25", "driveLink": "https://drive.google.com/uc?export=download&id=1cK4tYslx3WClRiNW8YX1_dhfVqI1cEBv", "fileSize": "1.2 MB", "addedDate": "2026-06-25T10:00:00Z" },
+            { "id": "IT505", "title": "SI-341-Fall-25", "driveLink": "https://drive.google.com/uc?export=download&id=1IQyZLBBxmgtJeaSKp43-Yb2v5Z7KEWvG", "fileSize": "1.2 MB", "addedDate": "2026-06-25T10:00:00Z" }
           ]
         },
         {
           "number": 6,
           "papers": [
-            { "id": "IT601", "title": "Data Science - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT602", "title": "Data Science - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT603", "title": "Cloud Computing - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT604", "title": "Cloud Computing - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT605", "title": "DevOps - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" }
-          ]
+            ]
         },
         {
           "number": 7,
           "papers": [
-            { "id": "IT701", "title": "DevOps - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT702", "title": "Machine Learning - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT703", "title": "Machine Learning - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT704", "title": "Big Data Analytics - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT705", "title": "Big Data Analytics - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" }
-          ]
+            ]
         },
         {
           "number": 8,
           "papers": [
-            { "id": "IT801", "title": "Final Year Project - Thesis", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT802", "title": "Research Methodology - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT803", "title": "Research Methodology - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT804", "title": "Professional Practices - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "IT805", "title": "Professional Practices - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" }
-          ]
+            ]
         }
       ]
     },
     {
       "id": "BSCS",
       "name": "BS(Computer Science)",
-      "lastUpdated": "2026-06-24T10:00:00Z",
+      "lastUpdated": "2026-06-25T10:00:00Z",
       "semesters": [
         {
           "number": 1,
           "papers": [
-            { "id": "CS101", "title": "Introduction to Computing - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS102", "title": "Introduction to Computing - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS103", "title": "Discrete Mathematics - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS104", "title": "Discrete Mathematics - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS105", "title": "Programming Fundamentals - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" }
-          ]
+            ]
         },
         {
           "number": 2,
           "papers": [
-            { "id": "CS201", "title": "Programming Fundamentals - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS202", "title": "Data Structures - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS203", "title": "Data Structures - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS204", "title": "Object Oriented Programming - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS205", "title": "Object Oriented Programming - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" }
-          ]
+             ]
         },
         {
           "number": 3,
           "papers": [
-            { "id": "CS301", "title": "Database Systems - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS302", "title": "Database Systems - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS303", "title": "Software Engineering - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS304", "title": "Software Engineering - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS305", "title": "Computer Networks - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" }
-          ]
+             ]
         },
         {
           "number": 4,
           "papers": [
-            { "id": "CS401", "title": "Computer Networks - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS402", "title": "Operating Systems - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS403", "title": "Operating Systems - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS404", "title": "Web Development - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS405", "title": "Web Development - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" }
-          ]
+            ]
         },
         {
           "number": 5,
           "papers": [
-            { "id": "CS501", "title": "Mobile App Development - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS502", "title": "Mobile App Development - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS503", "title": "Artificial Intelligence - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS504", "title": "Artificial Intelligence - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS505", "title": "Cyber Security - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" }
-          ]
+            ]
         },
         {
           "number": 6,
           "papers": [
-            { "id": "CS601", "title": "Cyber Security - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS602", "title": "Data Science - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS603", "title": "Data Science - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS604", "title": "Cloud Computing - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS605", "title": "Cloud Computing - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" }
-          ]
+            ]
         },
         {
           "number": 7,
           "papers": [
-            { "id": "CS701", "title": "Machine Learning - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS702", "title": "Machine Learning - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS703", "title": "Big Data Analytics - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS704", "title": "Big Data Analytics - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS705", "title": "DevOps - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" }
-          ]
+            ]
         },
         {
           "number": 8,
           "papers": [
-            { "id": "CS801", "title": "DevOps - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS802", "title": "Final Year Project - Thesis", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS803", "title": "Research Methodology - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS804", "title": "Research Methodology - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "CS805", "title": "Professional Practices - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" }
-          ]
+            ]
         }
       ]
     },
     {
       "id": "BSSE",
       "name": "BS(Software Engineering)",
-      "lastUpdated": "2026-06-24T10:00:00Z",
+      "lastUpdated": "2026-06-25T10:00:00Z",
       "semesters": [
         {
           "number": 1,
           "papers": [
-            { "id": "SE101", "title": "Introduction to SE - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE102", "title": "Introduction to SE - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE103", "title": "Programming Fundamentals - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE104", "title": "Programming Fundamentals - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE105", "title": "Discrete Mathematics - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" }
-          ]
+            ]
         },
         {
           "number": 2,
           "papers": [
-            { "id": "SE201", "title": "Discrete Mathematics - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE202", "title": "Data Structures - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE203", "title": "Data Structures - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE204", "title": "Object Oriented Programming - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE205", "title": "Object Oriented Programming - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" }
-          ]
+            ]
         },
         {
           "number": 3,
           "papers": [
-            { "id": "SE301", "title": "Database Systems - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE302", "title": "Database Systems - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE303", "title": "Software Engineering - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE304", "title": "Software Engineering - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE305", "title": "Computer Networks - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" }
-          ]
+             ]
         },
         {
           "number": 4,
           "papers": [
-            { "id": "SE401", "title": "Computer Networks - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE402", "title": "Operating Systems - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE403", "title": "Operating Systems - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE404", "title": "Web Development - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE405", "title": "Web Development - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" }
-          ]
+            ]
         },
         {
           "number": 5,
           "papers": [
-            { "id": "SE501", "title": "Mobile App Development - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE502", "title": "Mobile App Development - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE503", "title": "Artificial Intelligence - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE504", "title": "Artificial Intelligence - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE505", "title": "Cyber Security - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" }
-          ]
+            ]
         },
         {
           "number": 6,
           "papers": [
-            { "id": "SE601", "title": "Cyber Security - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE602", "title": "Data Science - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE603", "title": "Data Science - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE604", "title": "Cloud Computing - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE605", "title": "Cloud Computing - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" }
-          ]
+            ]
         },
         {
           "number": 7,
           "papers": [
-            { "id": "SE701", "title": "Machine Learning - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE702", "title": "Machine Learning - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE703", "title": "Big Data Analytics - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE704", "title": "Big Data Analytics - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE705", "title": "DevOps - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" }
-          ]
+            ]
         },
         {
           "number": 8,
           "papers": [
-            { "id": "SE801", "title": "DevOps - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE802", "title": "Final Year Project - Thesis", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE803", "title": "Research Methodology - Midterm", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE804", "title": "Research Methodology - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" },
-            { "id": "SE805", "title": "Professional Practices - Final", "driveLink": "https://drive.google.com/uc?export=download&id=1K7XLdlEIIanmdsBdeuPN9Twfk3xLOaGN", "fileSize": "1.2 MB", "addedDate": "2026-06-24T10:00:00Z" }
-          ]
+            ]
         }
       ]
     }
