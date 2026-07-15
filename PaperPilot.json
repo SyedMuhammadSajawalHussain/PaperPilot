@@ -52,7 +52,14 @@
             { "id": "IT610", "title": "EI-333-Spring-25", "driveLink": "https://drive.google.com/uc?export=download&id=1vJg2--bIYz7OXQ008vMZBj8VwPhd6w7n", "fileSize": "1.2 MB", "addedDate": "2026-06-26T10:00:00Z" },
             { "id": "IT611", "title": "UE-272-Spring-25", "driveLink": "https://drive.google.com/uc?export=download&id=1ITTP74JQi7w2hdy0N79fUiFL4E-Lz0Tb", "fileSize": "1.2 MB", "addedDate": "2026-06-26T10:00:00Z" },
             { "id": "IT612", "title": "SI-342-Spring-25", "driveLink": "https://drive.google.com/uc?export=download&id=17zAt9dWzJxgz2rNXujfQvKtCMmHl-4ys", "fileSize": "1.2 MB", "addedDate": "2026-06-26T10:00:00Z" }
-            ]
+            { "id": "IT613", "title": "HQ-006-Spring-26", "driveLink": "", "fileSize": "1.2 MB", "addedDate": "2026-06-26T10:00:00Z" },
+            { "id": "IT614", "title": "DI-323-Spring-26", "driveLink": "", "fileSize": "1.2 MB", "addedDate": "2026-06-26T10:00:00Z" },
+            { "id": "IT615", "title": "DI-326-Spring-26", "driveLink": "", "fileSize": "1.2 MB", "addedDate": "2026-06-26T10:00:00Z" },
+            { "id": "IT616", "title": "EI-333-Spring-26", "driveLink": "https://drive.google.com/uc?export=download&id=1KJRY8Ith4eQpX5HSFptZr0HDyNt-P-hr", "fileSize": "1.2 MB", "addedDate": "2026-06-26T10:00:00Z" },
+            { "id": "IT617", "title": "UE-272-Spring-26", "driveLink": "https://drive.google.com/uc?export=download&id=1_NLQHjsbECs62mJbpqrjgG1_kfHfQb58", "fileSize": "1.2 MB", "addedDate": "2026-06-26T10:00:00Z" },
+            { "id": "IT618", "title": "SI-342-Spring-26", "driveLink": "", "fileSize": "1.2 MB", "addedDate": "2026-06-26T10:00:00Z" }
+            
+          ]
         },
         {
           "number": 7,
